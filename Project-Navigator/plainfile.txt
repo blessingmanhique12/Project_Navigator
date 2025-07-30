@@ -1,0 +1,4 @@
+echo "The project's purpose is to set up a project environment, document the process uisng version control, and intergrate with a remote GitHub projectusing a forked workflow"
+
+echo " My personal details: Blessing Nkosimphile Manhique, with ID: 0610120136086"
+ 
