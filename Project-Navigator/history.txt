@@ -1,1 +1,499 @@
-
+$ history
+    1     98  nano shell_intro.sh
+    2     99  chmod +x shell_intro.sh
+    3    100  ./shell_intro.sh
+    4    101  ./shell_intro.sh
+    5    102  touch reflection.txt
+    6    103  echo "1.To provide a way  for you to communicate with the operating system,2.Running shell commands allows you to interact with your operating system efficiently,you can learn basic commands for navigation,file management, and process control, as well as more advanced techniques like piping,redirection,and scripting,3.There is more precise control over file management"> reflection.txt
+    7    104  history
+    8    105  git init
+    9    106  git add
+   10    107  git add .
+   11    108  git commit -m "Shell Terminal"
+   12    109  git push origin main
+   13    110  mkdir house
+   14    111  cd house
+   15    112  mkdir bedroom
+   16    113  touch node.txt
+   17  1  code .
+   18      2  touch index.html
+   19      3  touch script.js
+   20      4  echo
+   21      5  git add .
+   22      6  git commit -m "first commit"
+   23      7  git remote add origin https://github.com/blessingmanhique12/hello-world.git
+   24      8  echo "# hello-world" >> README.md
+   25      9  git init
+   26     10  git add README.md
+   27     11  git commit -m "first commit"
+   28     12  git branch -M main
+   29     13  git remote add origin https://github.com/blessingmanhique12/hello-world.git
+   30     14  git push -u origin main
+   31     15  node -v
+   32     16  mkdir hello-world
+   33     17  cd hello-world
+   34     18  git clone https://github.com/blessingmanhique12/hello-world.git
+   35     19  cd task-1-prac
+   36     20  code .
+   37     21  cd hello-world
+   38     22   ls
+   39     23  mkdir practice
+   40     24  cd practice
+   41     25  echo $null > "practice.txt"
+   42     26  echo "blessing manhique" > practice.txt
+   43     27  git pull origin main
+   44     28  git clone https://github.com/blessingmanhique12/task-1-prac.git
+   45     29  git pull origin main
+   46     30  git pull origin main
+   47     31  cd task-1-prac
+   48     32  git pull origin main
+   49     33  code .
+   50     34  code .
+   51     35  cd desktop
+   52     36  cd task-1-prac
+   53     37  echo "The shell is my translator to the OS"
+   54     38  pwd
+   55     39  ls
+   56     40  cd
+   57     41  cd Documents
+   58     42  cd
+   59     43  cd desktop
+   60     44  cd task-1-prac
+   61     45  mkdir shell_intro.sh
+   62     46  nano shell_intro.sh
+   63     47  nano shell_intro.sh
+   64     48  nano shell_intro.sh
+   65     49  nano shell_intro.sh
+   66     50  echo "Welcome to the shell"
+   67     51  nano shell_intro.sh
+   68     52  nano shell_intro.sh
+   69     53  echo Welcome to shell
+   70     54  pwd
+   71     55  ls
+   72     56  chmod +x shell_intro.sh
+   73     57  ./shell_intro.sh
+   74     58  ./shell_intro.sh
+   75     59  chmod +x shell_intro.sh
+   76     60  ./shell_intro.sh
+   77     61  touch  reflection.txt
+   78     62  ouch  reflection.txt
+   79     63  cd desktop
+   80     64  cd task-1-prac
+   81     65  echo The shell is translator to the OS
+   82     66  pwd
+   83     67  ls
+   84     68  cd Documents
+   85     69  cd ..
+   86     70  echo reflection.txt
+   87     71  ls
+   88     72  cd task-1-prac
+   89     73  ls
+   90     74  echo  "The shell is my translator to the OS"
+   91     75  pwd
+   92     76  ls
+   93     77  cd ..
+   94     78  cd ..
+   95     79  cd ..
+   96     80  ls
+   97     81  cd ..
+   98     82  ls
+   99     83  ls
+  100     84  cd task-1-prac
+  101     85  ls
+  102     86  echo "The shell is my translator to the OS"
+  103     87  pwd
+  104     88  ls
+  105     89  cd ..
+  106     90  cd ..
+  107     91  ls
+  108     92  cd Documents
+  109     93  cd ..
+  110     94  ls
+  111     95  cd Desktop
+  112     96  ls
+  113     97  cd task-1-prac
+  114     98  nano shell_intro.sh
+  115     99  chmod +x shell_intro.sh
+  116    100  ./shell_intro.sh
+  117    101  ./shell_intro.sh
+  118    102  touch reflection.txt
+  119    103  echo "1.To provide a way  for you to communicate with the operating system,2.Running shell commands allows you to interact with your operating system efficiently,you can learn basic commands for navigation,file management, and process control, as well as more advanced techniques like piping,redirection,and scripting,3.There is more precise control over file management"> reflection.txt
+  120    104  history
+  121    105  git init
+  122    106  git add
+  123    107  git add .
+  124    108  git commit -m "Shell Terminal"
+  125    109  git push origin main
+  126    110  mkdir house
+  127    111  cd house
+  128    112  mkdir bedroom
+  129    113  touch node.txt
+  130    114  echo "please clean the house,and do not touch my vase"
+  131    115  cd ..
+  132    116  ls
+  133    117  git clone https://github.com/blessingmanhique12/task-1-prac.git
+  134    118  git clone https://github.com/blessingmanhique12/task-1-prac.git
+  135    119  cd shell_architecture_practicice.sh
+  136    120  mkdir shell_intro.sh
+  137    121  mkdir shell_intro.sh
+  138    122  cd shell_intro.sh
+  139    123  touch reflection.txt
+  140    124  echo "The shell is my translator to the OS"
+  141    125  pwd
+  142    126  ls
+  143    127  cd Documents
+  144    128  nano shell_intro.sh
+  145    129  chmod +x shell_intro.sh
+  146    130  ./shell_intro.sh
+  147    131  touch reflection.txt
+  148    132  echo "
+  149  1.To provide a way  for you to communicate with the operating system,2.Running shell commands allows you to interact with your operating system efficiently,you can learn basic commands for navigation,file management, and process control, as well as more advanced techniques like piping,redirection,and scripting,3.There is more precise control over file management
+  150  ".
+  151    133  echo "
+  152  1.To provide a way  for you to communicate with the operating system,2.Running shell commands allows you to interact with your operating system efficiently,you can learn basic commands for navigation,file management, and process control, as well as more advanced techniques like piping,redirection,and scripting,3.There is more precise control over file management
+  153  "> reflection.txt
+  154    134  touch history.txt
+  155    135  cd ..
+  156    136  history
+  157  " > history.txt
+  158  git add .
+  159  git commit -m "completed shell architecture hands-on tasks"
+  160  git push
+  161  git clone https://github.com/blessingmanhique12/task-1-prac.git
+  162  git clone https://github.com/blessingmanhique12/task-1-prac.git
+  163  mkdir shell_intro.sh
+  164  mkdir shell_intro.sh
+  165  ls
+  166  cd task-1-prac
+  167  cd shell_intro.sh
+  168  git add
+  169  git add .
+  170  git commit -m "completed shell architecture hands-on tasks"
+  171  git commit main
+  172  git push origin main
+  173  git clone https://github.com/blessingmanhique12/task-1-prac.git
+  174  mkdir shell_intro.sh
+  175  echo "The shell is my translator to the OS"
+  176  pwd
+  177  ls
+  178  cd Documents
+  179  cd ..
+  180  git clone https://github.com/blessingmanhique12/task-1-prac.git
+  181  history
+  182  git clone https://github.com/blessingmanhique12/task-1-prac.git
+  183  git clone https://github.com/blessingmanhique12/tpc-community.git
+  184  mkdir automation_scripts/
+  185  touch deploy.sh
+  186  ls
+  187  mkdir documentation/
+  188  touch style_guide.txt
+  189  git innit
+  190  git clone https://github.com/blessingmanhique12/tpc-community.git
+  191  git clone https://github.com/blessingmanhique12/tpc-community.git
+  192  git clone https://github.com/blessingmanhique12/tpc-community.git
+  193  mkdir automation_scripts/
+  194  touch deploy.sh
+  195  git clone https://github.com/blessingmanhique12/tpc-community.git
+  196  mkdir automation_scripts/
+  197  cd
+  198  touch deploy.sh
+  199  ls
+  200  git clone https://github.com/blessingmanhique12/tpc-community.git
+  201  mkdir automation_scripts/
+  202  cd
+  203  touch deploy.sh
+  204  cd ..
+  205  cd ..
+  206  git clone https://github.com/blessingmanhique12/tpc-community.git
+  207  mkdir automation_scripts/
+  208  cd
+  209  touch deploy.sh
+  210  git clone https://github.com/blessingmanhique12/tpc-community.git
+  211  git init
+  212  cd
+  213  mkdir automation_scripts/
+  214  git clone https://github.com/blessingmanhique12/tpc-community.git
+  215  git init
+  216  cd Tpc_community
+  217  cd
+  218  git clone https://github.com/blessingmanhique12/tpc-community.git
+  219  git innit
+  220  cd
+  221  mkdir automation_scripts/
+  222  mkdir Tpc_Community
+  223  cd Tpc_Community
+  224  mkdir automation_scripts/
+  225  mkdir documentation/
+  226  cd automation_scripts/
+  227  nano deploy.sh
+  228  chmod +x deploy.sh
+  229  ./deploy.sh
+  230  nano deploy.sh
+  231  ./deploy.sh
+  232  cd ..
+  233  cd documentation/
+  234  nano style_guide.txt
+  235  nano style_guide.txt
+  236  ./deploy.sh
+  237  cd ..
+  238  mkdir Tpc_Community
+  239  cd Tpc_Community
+  240  mkdir automation_scripts
+  241  cd automation_scripts
+  242  nano deploy.sh
+  243  chmod +x deploy.sh
+  244  ./deploy.sh
+  245  cd ..
+  246  cd documentation/
+  247  nano style_guide.txt
+  248  ls style_guide.txt
+  249  cd ..
+  250  history > history.txt
+  251  ls
+  252  git clone https://github.com/blessingmanhique12/tpc-community.git
+  253  ls
+  254  git init
+  255  git add .
+  256  git commit -m "completed tree"
+  257  git push origin master
+  258  git push
+  259  git remove add
+  260  git remove add origin https://github.com/blessingmanhique12/tpc-community.git
+  261  git push
+  262  git push origin master
+  263  git remote add origin https://github.com/blessingmanhique12/tpc-community.git
+  264  git push origin master
+  265  git clone https://github.com/blessingmanhique12/tpc-community.git
+  266  history
+  267  mkdir Tpc_Community
+  268  mkdir Tpc_Community
+  269  cd Tpc_Community
+  270  git clone https://github.com/blessingmanhique12/tpc-community.git
+  271  git init
+  272  mkdir automation_scripts/
+  273  cd
+  274  mkdir Tpc_Community
+  275  cd Tpc_Community
+  276  git clone https://github.com/blessingmanhique12/tpc-community.git
+  277  git init
+  278  mkdir automation_scripts/
+  279  cd automation_scripts/
+  280  nano deploy.sh
+  281  chmod +x deploy.sh
+  282  ./deploy.sh
+  283  cd ..
+  284  git add .
+  285  git commit -m "deploy scripts"
+  286  git remote add origin https://github.com/blessingmanhique12/tpc-community.git
+  287  code .
+  288  git add .
+  289  git status
+  290  cd tpc_community
+  291  git code
+  292  git commit _m "moved automation scripts to original"
+  293  git remove -v
+  294  git status
+  295  git push origin master
+  296  ls -R
+  297  mkdir Tpc_Community
+  298  cd Tpc_Community
+  299  git clone https://github.com/blessingmanhique12/tpc-community.git
+  300  git init
+  301  mkdir automation_scripts/
+  302  cd automation_scripts/
+  303  nano deploy.sh
+  304  chmod +x deploy.sh
+  305  ./deploy.sh
+  306  cd ..
+  307  mkdir documentation/
+  308  cd documentation/
+  309  nano style_guide.txt
+  310  chmod +x style_guide.txt
+  311  ./style_guide.txt
+  312  nano style_guide.txt
+  313  chmod +x style_guide.txt
+  314  ./style_guide.txt
+  315  mkdir Tpc_Community
+  316  mkdir Tpc_Community
+  317  cd Tpc_Community
+  318  git clone https://github.com/blessingmanhique12/tpc-community.git
+  319  git init
+  320  mkdir automation_scripts/
+  321  cd automation_scripts/
+  322  nano deploy.sh
+  323  chmod +x deploy.sh
+  324  ./deploy.sh
+  325  cd ..
+  326  mkdir documentation/
+  327  cd documentation/
+  328  nano style_guide.txt
+  329  chmod +x style_guide.txt
+  330  ./style_guide.txt
+  331  cd ..
+  332  git add .
+  333  git commit -m "deploy scripts"
+  334  git remote add origin https://github.com/blessingmanhique12/tpc-community.git
+  335  code .
+  336  git add .
+  337  git status
+  338  cd tpc_community
+  339  git code
+  340  git commit "moved automation scripts to the original"
+  341  git remove -v
+  342  git status
+  343  git push origin master
+  344  ls -R
+  345  git clone https://github.com/blessingmanhique12/tpc-community.git
+  346  code .
+  347  history
+  348  git clone https://github.com/blessingmanhique12/tpc-community.git
+  349  history
+  350  git clone https://github.com/blessingmanhique12/tpc-community.git
+  351  code .
+  352  \
+  353  nano init_push.sh
+  354  git clone https://github.com/blessingmanhique12/hello_shell.git
+  355  ls
+  356  cd Tpc_Community
+  357  ls
+  358  cd automation_scripts/
+  359  touch setup.sh
+  360  cd automation_scripts/
+  361  git init
+  362  git clone https://github.com/blessingmanhique12/hello_shell.git
+  363  mkdir project_folder/
+  364  cd project_folder/
+  365  mkdir src/
+  366  mkdir docs/
+  367  cd src/
+  368  code .
+  369  git add .
+  370  git commit -m " Folder structure created successfully!"
+  371  git push
+  372  ls
+  373  code .
+  374  git clone https://github.com/blessingmanhique12/hello_shell.git
+  375  ls
+  376  git clone https://github.com/blessingmanhique12/hello_shell.git
+  377  git clone https://github.com/blessingmanhique12/hello_shell.git
+  378  git clone https://github.com/blessingmanhique12/git_automation.git
+  379  touch init_push.sh
+  380  chmod +x init_push.sh
+  381  ./init_push.sh my_project
+  382  git commit -m inited"
+  383  init_push.sh
+  384  git clone https://github.com/blessingmanhique12/git_automation.git
+  385  ls
+  386  chmod +x init_push.sh
+  387  ./init_push.sh my_project
+  388  git push origin master
+  389  histopry >history.txt
+  390  history > histoty.txt
+  391  git clone https://github.com/blessingmanhique12/hello_shell.git
+  392  ls
+  393  gir clone https://github.com/blessingmanhique12/hello_shell.git
+  394  git clone https://github.com/blessingmanhique12/hello_shell.git
+  395  ls
+  396  cd Tpc_Community
+  397  ls
+  398  cd automation_scripts/
+  399  touch setup.sh
+  400  cd ..
+  401  cd ..
+  402  mkdir setup.sh
+  403  cd setup.sh
+  404  git clone https://github.com/blessingmanhique12/hello_shell.git
+  405  ls
+  406  cd Tpc_Community
+  407  ls
+  408  cd automation_scripts/
+  409  touch setup.sh
+  410  cd ..
+  411  cd ..
+  412  mkdir project_folder/
+  413  cd project_folder/
+  414  mkdir src/
+  415  mkdir docs/
+  416  cd src/
+  417  code .
+  418  echo "✅ Folder structure created successfully!"
+  419  automation_scripts/setup.sh
+  420  git status
+  421  git commit-m "✅ Folder structure created successfully!"
+  422  git commit -m "✅ Folder structure created successfully!"
+  423      git init
+  424  git push
+  425  git push origin master
+  426  push master
+  427  git remote add origin https://github.com/blessingmanhique12/hello_shell.git
+  428  git push origin master
+  429  git add .
+  430  git push origin master
+  431  git commit -m "✅ Folder structure created successfully!"
+  432  git remote add origin https://github.com/blessingmanhique12/hello_shell.git
+  433  git push origin master
+  434  history > history.txt
+  435  history
+  436  git init
+  437  git clone https://github.com/blessingmanhique12/Project_Navigator.git
+  438  mkdir Project-Navigator
+  439
+  440   cd Project-Navigator
+  441  touch file.txt
+  442  echo "The project's pur  jd
+  443  git clone https://github.com/blessingmanhique12/Project_Navigator.git
+  444  ls
+  445   cd Project-Navigator
+  446  ls
+  447  cd file.txt
+  448  cd file.txt
+  449  ls
+  450  cd file.txt
+  451  pwd
+  452  git clone https://github.com/blessingmanhique12/Project_Navigator.git
+  453  mkdir Project-Navigator
+  454  cd Project-Navigator
+  455  touch plainfile.txt
+  456  cd plainfile.txt
+  457  nano plainfile.txt
+  458  ./
+  459  ./plainfile.txt
+  460  git init
+  461  touch history.txt
+  462  git clone https://github.com/blessingmanhique12/Project_Navigator.git
+  463  mkdir Project-Navigator
+  464  cd Project-Navigator
+  465  touch plainfile.txt
+  466  nano plainfile.txt
+  467  ./plainfile.txt
+  468  code .
+  469  git commit -m "project moved to version control"
+  470  git clone https://github.com/blessingmanhique12/Project_Navigator.git
+  471  mkdir Project-Navigator
+  472  cd Project-Navigator
+  473  touch plainfile.txt
+  474  nano plainfile.txt
+  475  ./plainfile.txt
+  476  code .
+  477  git add .
+  478  nano plainfile.txt
+  479  ./plainfile.txt
+  480  git commit -m "added changes inside the project navigator file"
+  481  git add .
+  482  nano plainfile.txt
+  483  ./plainfile.txt
+  484  git commit -m "replaced projecting with project inside the project navigator file"
+  485  ls
+  486  touch history.txt
+  487  code .
+  488  history
+  489  nano plainfile.txt
+  490  chmod +x plainfile.txt
+  491  ./plainfile.txt
+  492  git push
+  493  git remote add origin https://github.com/blessingmanhique12/Project_Navigator.git
+  494  git push origin master
+  495  history
+  496  code .
+  497  code .
+  498  history
